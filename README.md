@@ -1,14 +1,20 @@
 # 💫 About Me:
 # 👋 Hi, I'm Syed Hamza Imran
 
-I’m **Syed Hamza Imran**, a passionate **Laravel developer** who loves creating clean, user-friendly, and interactive web applications.  
+🔭 I’m currently working on:  
+Building **Inquizzitive**, a Laravel-based quiz platform, and working on freelance web projects to sharpen my development skills.  
 
-I specialize in **HTML, CSS, JavaScript, Bootstrap, PHP, Laravel, and MySQL**, and I’m currently expanding my skill set by learning **.NET Core and MS SQL** to strengthen my backend expertise.  
+👯 I’m looking to collaborate on:  
+Web development projects involving **Laravel, PHP, MySQL, JavaScript**, or creative **frontend design** work.  
 
-I’m studying at **Aptech Learning** for an **Advanced Diploma in Software Engineering** while also working on personal and freelance projects. My work philosophy revolves around **attention to detail, clean code, and user-centric design**.  
+🌱 I’m currently learning:  
+**.NET Core** and **MS SQL** to broaden my backend development expertise alongside Laravel.  
 
-Beyond coding, I’m creative, love solving problems, and enjoy building projects that turn ideas into real-world applications. Oh, and I’m a huge **One Piece fan** 🏴‍☠️.  
+💬 Ask me about:  
+Frontend development (HTML, CSS, JS, Bootstrap), Laravel projects, quiz app development, or how to turn creative ideas into real-world web applications.  
 
+⚡ Fun fact:  
+I’m a huge **One Piece fan** 🏴‍☠️ and love building projects inspired by the things I’m passionate about.   
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s.yedhamza) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/syedHamza6448) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hsyed6448@gmail.com) 
