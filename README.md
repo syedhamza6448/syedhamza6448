@@ -1,21 +1,60 @@
-# 💫 About Me:
-🔭 I’m currently working on Subway Surfers (Fan Tribute)<br><br>👯 I’m looking to collaborate on creative frontend projects, game-inspired websites, and interactive UI/UX experiments<br><br>🤝 I’m looking for help with ASP.NET Core best practices, Angular architecture, and building scalable web applications<br><br>🌱 I’m currently learning Web Development with ASP.NET Core (backend) and Angular (frontend)<br><br>💬 Ask me about frontend development, terminal-style portfolios, vibe coding with AI, or designing game-inspired UIs<br><br>⚡ Fun fact: I love turning anime, games, and bold UI ideas into real, usable websites — One Piece still undefeated 🏴‍☠️<br>
+# Syed Hamza Imran — Full-Stack Developer
 
+Full-stack dev building things that actually work — clean UIs, solid APIs, real apps. I work across the whole stack, integrate AI where it makes sense, and ship stuff that doesn't fall apart after launch.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/syedhamza6448) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s.yedhamza) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syedhamza6448) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/syedhamza6448) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/TheBo9os) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/syedhamza6448) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hsyed6448@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=plastic&logo=radix-ui&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=syedhamza6448&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=syedhamza6448&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=syedhamza6448&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+Currently building AI-powered tools. Open to remote work & freelance.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=syedhamza6448&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Tech I actually use
+
+**Frontend:** React.js · Next.js · Angular · TypeScript · Tailwind CSS
+**Backend:** Laravel · ASP.NET Core · C# · PHP · REST APIs
+**AI & integrations:** Groq Whisper · OpenRouter · AI API integration
+**Databases:** MySQL · MS SQL Server
+**Tools:** Git · GitHub · Postman
+**Learning:** Flutter · Dart
+
+---
+
+## Projects
+
+### 🔨 MeetFlow *(in progress)*
+`AI` `React` `ASP.NET Core` `real-time processing`
+AI-powered meeting platform that auto-generates summaries, extracts action items, and turns your meetings into structured output — so nothing falls through the cracks.
+🔗 [Repo](#)
+
+---
+
+### SpeakLog
+`React` `Vite` `Groq Whisper` `OpenRouter` `no backend`
+Voice note app that turns spoken ideas into structured tasks, summaries, and calendar events in seconds. Live waveform animation, dark glassmorphism UI — runs entirely in the browser with no backend.
+🔗 [Live Demo](https://speaklog.vercel.app/) · [Repo](https://github.com/syedhamza6448/speaklog)
+
+### FinTrack
+`ASP.NET Core` `Angular` `MS SQL Server` `Chart.js`
+Personal finance app with real-time expense tracking, budget goals, and an interactive dashboard. Built secure auth, role-based access, and RESTful APIs from scratch.
+[Repo](https://github.com/syedhamza6448/FinTrack)
+
+### Inquizzitive
+`Laravel` `MySQL` `Blade` `REST APIs`
+Full quiz platform — create, play, score. Theme customization, timed rounds, attempt history, and real-time score updates. Built to handle concurrent users without breaking.
+[Repo](https://github.com/syedhamza6448/Inquizzitive-Laravel)
+
+---
+
+## Right now
+
+- 🔨 Shipping MeetFlow — AI meeting assistant with summaries & action items
+- 🤖 Building more AI-integrated tools
+- 📱 Learning Flutter & Dart for cross-platform mobile
+
+---
+
+## Reach me
+
+Open to remote roles, freelance projects, and interesting collabs.
+
+📧 hsyed6448@gmail.com
+💼 [linkedin.com/in/syedhamza6448](https://linkedin.com/in/syedhamza6448)
+🎨 [codepen.io/syedhamza6448](https://codepen.io/syedhamza6448)
